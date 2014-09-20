@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Lars Gosta Rudstam
+N:Rudstam;Lars;Gosta
+ADR;HOME:;;
+ADR;WORK:;;Fernow Hall; Room 16G
+EMAIL;INTERNET:lgr1@cornell.edu
+TEL;FAX:315/633-2358
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Natural Resources
+NICKNAME:rudstam
+TITLE:Professor
+URL:"http://www.dnr.cornell.edu/fieldst/cbfs.htm"
+TEL;PAGER:
+NOTE:Warmwater fisheries
+TEL;WORK:607/255-1555
+END:vCard

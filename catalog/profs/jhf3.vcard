@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Jack H. Freed
+N:Freed;Jack;H.
+ADR;HOME:;;
+ADR;WORK:;;Baker Laboratory; Room B52
+EMAIL;INTERNET:jhf3@cornell.edu
+TEL;FAX:607/255-0595
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Chemistry and Chemical Biology DEPT
+NICKNAME:Jack
+TITLE:Professor
+URL:http://www.acert.cornell.edu
+TEL;PAGER:
+NOTE:National Biomedical Center for Advanced ESR Technologies
+TEL;WORK:607/255-3647
+END:vCard

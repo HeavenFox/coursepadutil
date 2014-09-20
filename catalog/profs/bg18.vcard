@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Bruce Ganem
+N:Ganem;Bruce;
+ADR;HOME:;;
+ADR;WORK:;;Baker Laboratory; Room 346B
+EMAIL;INTERNET:bg18@cornell.edu
+TEL;FAX:607/255-6318
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Chemistry and Chemical Biology DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://www.chem.cornell.edu/faculty/index.asp?fac=30
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-7360
+END:vCard

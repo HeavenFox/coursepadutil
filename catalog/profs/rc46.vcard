@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Robert Connelly
+N:Connelly;Robert;
+ADR;HOME:;;
+ADR;WORK:;;Malott Hall; Room 433
+EMAIL;INTERNET:rc46@cornell.edu
+TEL;FAX:607/255-7149
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Mathematics
+NICKNAME:Bob
+TITLE:Professor
+URL:http://math.cornell.edu/~connelly/
+TEL;PAGER:
+NOTE:Geometry
+TEL;WORK:607/255-4301
+END:vCard

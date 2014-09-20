@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John Fredrick Abel
+N:Abel;John;Fredrick
+ADR;HOME:;;
+ADR;WORK:;;Hollister Hall; Room 409
+EMAIL;INTERNET:jfa5@cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;
+NICKNAME:JohnA
+TITLE:Prof Emeritus
+URL:http://www.cee.cornell.edu/jfa5
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/227-3272
+END:vCard

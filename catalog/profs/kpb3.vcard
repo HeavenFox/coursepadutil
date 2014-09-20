@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Kenneth Paul Birman
+N:Birman;Kenneth;Paul
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 435
+EMAIL;INTERNET:ken@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:Ken
+TITLE:Professor
+URL:http://www.cs.cornell.edu/ken/
+TEL;PAGER:
+NOTE:Trustworthy distributed computing
+TEL;WORK:607/255-9199
+END:vCard

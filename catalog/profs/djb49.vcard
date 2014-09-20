@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Donald J. Barry
+N:Barry;Donald;J.
+ADR;HOME:;;
+ADR;WORK:;;
+EMAIL;INTERNET:don@sirtf.com
+TEL;FAX:607/255-7504
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;RSRCH - Radiophysics & Space Research
+NICKNAME:
+TITLE:IT Operations Mgr I
+URL:http://isc.astro.cornell.edu/~don
+TEL;PAGER:
+NOTE:Infrared Science Center
+TEL;WORK:607/255-9250
+END:vCard

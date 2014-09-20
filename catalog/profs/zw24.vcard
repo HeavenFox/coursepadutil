@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Zheng Jane Wang
+N:Wang;Zheng;Jane
+ADR;HOME:;;
+ADR;WORK:;;Thurston Hall; Room 323
+EMAIL;INTERNET:jane.wang@cornell.edu
+TEL;FAX:607/255-2011
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Mechanical & Aerospace Engr DEPT
+NICKNAME:Jane Wang  Z. Jane Wang
+TITLE:Professor
+URL:http://dragonfly.tam.cornell.edu
+TEL;PAGER:
+NOTE:Biological Fluid Dynamics, Aerodynamics and Evolution of Insect Flight
+TEL;WORK:607/255-5354
+END:vCard

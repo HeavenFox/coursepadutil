@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Andrew C. Myers
+N:Myers;Andrew;C.
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 428
+EMAIL;INTERNET:myers@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:andru
+TITLE:Professor
+URL:http://www.cs.cornell.edu/andru
+TEL;PAGER:
+NOTE:Applied Programming Languages
+TEL;WORK:607/255-8597
+END:vCard

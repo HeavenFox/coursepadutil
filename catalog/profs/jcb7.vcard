@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John C. Belina
+N:Belina;John;C.
+ADR;HOME:;;
+ADR;WORK:;;Phillips Hall; Room 115
+EMAIL;INTERNET:belina@ece.cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Electrical and Computer Engr DEPT
+NICKNAME:
+TITLE:Instructor Visiting
+URL:http://www.ece.cornell.edu/meng/index.cfm
+TEL;PAGER:
+NOTE:MEng Energy and Biomedical projects in ECE
+TEL;WORK:
+END:vCard

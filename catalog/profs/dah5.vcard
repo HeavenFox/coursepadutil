@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:David A. Hammer
+N:Hammer;David;A.
+ADR;HOME:;;
+ADR;WORK:;;Frank H T Rhodes Hall; Room 327
+EMAIL;INTERNET:dah5@cornell.edu
+TEL;FAX:607/255-9072
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Electrical and Computer Engr DEPT
+NICKNAME:Dave
+TITLE:Professor
+URL:http://people.ece.cornell.edu/hammer/
+TEL;PAGER:607 255-3916-
+NOTE:
+TEL;WORK:607/255-3916
+END:vCard

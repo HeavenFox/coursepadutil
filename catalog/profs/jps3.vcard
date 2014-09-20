@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John Philip Sanderson
+N:Sanderson;John;Philip
+ADR;HOME:;;
+ADR;WORK:;;
+EMAIL;INTERNET:jps3@cornell.edu
+TEL;FAX:607/255-1720
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Entomology CHAIR
+NICKNAME:John
+TITLE:Prof Assoc
+URL:
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-5419
+END:vCard

@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Evan G. Cooch
+N:Cooch;Evan;G.
+ADR;HOME:;;
+ADR;WORK:;;Fernow Hall; Room 202
+EMAIL;INTERNET:evan.cooch@cornell.edu
+TEL;FAX:607/255-0349
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Natural Resources
+NICKNAME:cooch, canuck
+TITLE:Prof Assoc
+URL:http://canuck.dnr.cornell.edu
+TEL;PAGER:
+NOTE:population dynamics, evolutionary ecology, population modeling, conservation biology
+TEL;WORK:607/255-1368
+END:vCard

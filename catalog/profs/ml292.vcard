@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Michal Lipson
+N:Lipson;Michal;
+ADR;HOME:;;
+ADR;WORK:;;Phillips Hall; Room 428
+EMAIL;INTERNET:lipson@ece.cornell.edu
+TEL;FAX:607/254-3508
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Electrical and Computer Engr DEPT
+NICKNAME:
+TITLE:Professor
+URL:www.ece.cornell.edu/~lipson
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-7877
+END:vCard

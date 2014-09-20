@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Andy Lee Ruina
+N:Ruina;Andy;Lee
+ADR;HOME:;;
+ADR;WORK:;;Kimball Hall; Room 306
+EMAIL;INTERNET:alr3@cornell.edu
+TEL;FAX:607/255-2011
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Mechanical & Aerospace Engr DEPT
+NICKNAME:ruina
+TITLE:Professor
+URL:http://ruina.tam.cornell.edu
+TEL;PAGER:
+NOTE:locomotion, expecially bipedal walking, dynamics book, courses
+TEL;WORK:607/255-7108
+END:vCard

@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:David Anthony Muller
+N:Muller;David;Anthony
+ADR;HOME:;;
+ADR;WORK:;;Clark Hall; Room 274
+EMAIL;INTERNET:dm24@cornell.edu
+TEL;FAX:607/255-7658
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University
+NICKNAME:Dave
+TITLE:Professor
+URL:http://people.ccmr.cornell.edu/~davidm/
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-4065
+END:vCard

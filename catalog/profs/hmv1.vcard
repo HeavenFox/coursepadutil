@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Harold Mathijs Van Es
+N:Van Es;Harold;Mathijs
+ADR;HOME:;;
+ADR;WORK:;;Bradfield Hall; Room 1005
+EMAIL;INTERNET:hmv1@cornell.edu
+TEL;FAX:607/255-2644
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Crop and Soil Sciences Section
+NICKNAME:Dirty Harry
+TITLE:Professor
+URL:css.cals.cornell.edu
+TEL;PAGER:
+NOTE:Soil Health; Precision and Computational Agriculture, Soil and Water Management
+TEL;WORK:607/255-5629
+END:vCard

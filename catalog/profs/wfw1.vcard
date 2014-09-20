@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Wayne Frank Wilcox
+N:Wilcox;Wayne;Frank
+ADR;HOME:;;
+ADR;WORK:;;Roberts Hall; Room BOX15
+EMAIL;INTERNET:wfw1@cornell.edu
+TEL;FAX:315/787-2389
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Geneva Plant Pathology
+NICKNAME:Wayne
+TITLE:Professor
+URL:http://www.nysaes.cornell.edu/pp/faculty/wilcox/
+TEL;PAGER:
+NOTE:Administration; Grape disease research & extension
+TEL;WORK:315/787-2335
+END:vCard

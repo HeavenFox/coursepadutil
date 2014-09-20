@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Alexander L. Gaeta
+N:Gaeta;Alexander;L.
+ADR;HOME:;;
+ADR;WORK:;;Clark Hall; Room 224
+EMAIL;INTERNET:alg3@cornell.edu
+TEL;FAX:607/255-7658
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Applied & Engineering Physics DEPT
+NICKNAME:Alex
+TITLE:Professor
+URL:http://focus.aep.cornell.edu
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-9983
+END:vCard

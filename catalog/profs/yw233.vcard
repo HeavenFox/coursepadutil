@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Yi Wang
+N:Wang;Yi;
+ADR;HOME:;;
+ADR;WORK:;;
+EMAIL;INTERNET:yw233@cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Biomedical Engineering DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://mri.med.cornell.edu
+TEL;PAGER:
+NOTE:magnetic resonance imaging
+TEL;WORK:646/253-2809
+END:vCard

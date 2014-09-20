@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Anil Nerode
+N:Nerode;Anil;
+ADR;HOME:;;
+ADR;WORK:;;Malott Hall; Room 545
+EMAIL;INTERNET:anil@math.cornell.edu
+TEL;FAX:607/255-7149
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Mathematics
+NICKNAME:anil
+TITLE:Professor
+URL:http://www.math.cornell.edu\~anil
+TEL;PAGER:
+NOTE:Hybrid Systems and Distributed Autonomous Control
+TEL;WORK:607/255-4013
+END:vCard

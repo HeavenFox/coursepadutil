@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:David S. Bindel
+N:Bindel;David;S.
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 425
+EMAIL;INTERNET:bindel@cs.cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Prof Asst
+URL:http://www.cs.cornell.edu/~bindel
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-5395
+END:vCard

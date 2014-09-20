@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Johannes E. Gehrke
+N:Gehrke;Johannes;E.
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 452
+EMAIL;INTERNET:johannes@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://www.cs.cornell.edu/johannes
+TEL;PAGER:
+NOTE:http://www.cs.cornell.edu/database
+TEL;WORK:607/821-1685
+END:vCard

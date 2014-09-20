@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Stephen Robert Marschner
+N:Marschner;Stephen;Robert
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 313
+EMAIL;INTERNET:srm2@cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:Steve
+TITLE:Professor
+URL:http://www.cs.cornell.edu/~srm
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-8367
+END:vCard

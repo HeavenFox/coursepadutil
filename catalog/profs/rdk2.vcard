@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Robert David Kleinberg
+N:Kleinberg;Robert;David
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 317
+EMAIL;INTERNET:rdk2@cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University
+NICKNAME:Bobby
+TITLE:Prof Assoc
+URL:http://www.cs.cornell.edu/~rdk
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-9200
+END:vCard

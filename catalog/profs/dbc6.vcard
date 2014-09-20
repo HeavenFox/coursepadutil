@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:David B. Collum
+N:Collum;David;B.
+ADR;HOME:;;
+ADR;WORK:;;Baker Laboratory; Room 482
+EMAIL;INTERNET:dbc6@cornell.edu
+TEL;FAX:607/255-5223
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Chemistry and Chemical Biology DEPT
+NICKNAME:Dave
+TITLE:Professor
+URL:http://www.chem.cornell.edu/dbc6/
+TEL;PAGER:
+NOTE:Chemistry Professor
+TEL;WORK:607/255-4879
+END:vCard

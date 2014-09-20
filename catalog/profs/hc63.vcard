@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Hsiao-Dong Chiang
+N:Chiang;Hsiao-Dong;
+ADR;HOME:;;
+ADR;WORK:;;Frank H T Rhodes Hall; Room 328
+EMAIL;INTERNET:chiang@ece.cornell.edu
+TEL;FAX:607/254-8820
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Electrical and Computer Engr DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://ece.cornell.edu/~faculty/~chiang
+TEL;PAGER:
+NOTE:Optimal power flow
+TEL;WORK:607/255-5270
+END:vCard

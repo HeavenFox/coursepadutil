@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John E. Hopcroft
+N:Hopcroft;John;E.
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 426
+EMAIL;INTERNET:jeh@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Professor
+URL:
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-1179
+END:vCard

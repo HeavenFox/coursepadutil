@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John N. Foster
+N:Foster;John;N.
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 432
+EMAIL;INTERNET:jnf27@cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:Nate
+TITLE:Prof Asst
+URL:http://www.cs.cornell.edu/~jnfoster
+TEL;PAGER:
+NOTE:
+TEL;WORK:
+END:vCard

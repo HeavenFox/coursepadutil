@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Claude Cohen
+N:Cohen;Claude;
+ADR;HOME:;;
+ADR;WORK:;;Olin Hall; Room 318A
+EMAIL;INTERNET:cc112@cornell.edu
+TEL;FAX:607/255-9166
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Chemical and Biomolecular Engr DEPT
+NICKNAME:
+TITLE:Professor
+URL:
+TEL;PAGER:
+NOTE:Structure-properties of elastomers
+TEL;WORK:607/255-7292
+END:vCard

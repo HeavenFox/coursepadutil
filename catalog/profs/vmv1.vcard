@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Volker M. Vogt
+N:Vogt;Volker;M.
+ADR;HOME:;;
+ADR;WORK:;;Biotechnology; Room 358
+EMAIL;INTERNET:vmv1@cornell.edu
+TEL;FAX:607/255-2428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Molecular Biology and Genetics
+NICKNAME:
+TITLE:Professor
+URL:http://www.mbg.cornell.edu/MBG_Faculty_Detail.cfm?id=30
+TEL;PAGER:
+NOTE:1. Structure and assembly of retroviruses.  2. Mobile group I introns in the nucleus.
+TEL;WORK:607/255-2443
+END:vCard

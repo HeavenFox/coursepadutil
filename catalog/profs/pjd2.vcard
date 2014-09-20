@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Peter John Davies
+N:Davies;Peter;John
+ADR;HOME:;;
+ADR;WORK:;;Plant Science Building; Room 255
+EMAIL;INTERNET:pjd2@cornell.edu
+TEL;FAX:607/255-5407
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CALS - Plant Biology Section
+NICKNAME:Peter
+TITLE:Professor
+URL:http://www.plantbio.cornell.edu/faculty.php?fid=6
+TEL;PAGER:
+NOTE:Plant growth and development; plant hormones
+TEL;WORK:607/255-8237
+END:vCard

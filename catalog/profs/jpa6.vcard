@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:James Paul Alexander
+N:Alexander;James;Paul
+ADR;HOME:;;
+ADR;WORK:;;PHYSICAL SCIENCES BUILDING; Room 318
+EMAIL;INTERNET:jpa6@cornell.edu
+TEL;FAX:607/254-4552
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Physics
+NICKNAME:Jim
+TITLE:Professor
+URL:http://www.lns.cornell.edu/~jima
+TEL;PAGER:
+NOTE:CMS
+TEL;WORK:607/255-5259
+END:vCard

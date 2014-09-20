@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Michael David George
+N:George;Michael;David
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 447
+EMAIL;INTERNET:mdgeorge@cs.cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University
+NICKNAME:Mike
+TITLE:Lecturer
+URL:http://www.cs.cornell.edu/~mdgeorge
+TEL;PAGER:
+NOTE:2800 and 3110
+TEL;WORK:
+END:vCard

@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:David Steurer
+N:Steurer;David;
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 319
+EMAIL;INTERNET:dsteurer@cs.cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Prof Asst
+URL:http://www.cs.cornell.edu/~dsteurer
+TEL;PAGER:
+NOTE:
+TEL;WORK:
+END:vCard

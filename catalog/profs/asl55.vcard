@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Adrian S. Lewis
+N:Lewis;Adrian;S.
+ADR;HOME:;;
+ADR;WORK:;;Frank H T Rhodes Hall
+EMAIL;INTERNET:asl55@cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University
+NICKNAME:
+TITLE:Professor
+URL:http://orie.cornell.edu/~aslewis
+TEL;PAGER:
+NOTE:Variational analysis and eigenvalue optimization
+TEL;WORK:607/255-9147
+END:vCard

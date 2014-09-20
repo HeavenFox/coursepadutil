@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Robbert Van Renesse
+N:Van Renesse;Robbert;
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 433
+EMAIL;INTERNET:rvr@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Principal Research Scientist
+URL:http://www.cs.cornell.edu/home/rvr
+TEL;PAGER:
+NOTE:Distributed Systems
+TEL;WORK:607/255-1021
+END:vCard

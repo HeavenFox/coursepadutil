@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Ivan Bazarov
+N:Bazarov;Ivan;
+ADR;HOME:;;
+ADR;WORK:;;Wilson Synchrotron Lab & Ring; Room 373
+EMAIL;INTERNET:ib38@cornell.edu
+TEL;FAX:
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CAS - Physics
+NICKNAME:bazarov
+TITLE:Prof Assoc
+URL:http://www.lepp.cornell.edu/~ib38/
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/254-2781
+END:vCard

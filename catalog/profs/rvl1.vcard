@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Richard V E Lovelace
+N:Lovelace;Richard;V E
+ADR;HOME:;;
+ADR;WORK:;;Clark Hall; Room 227
+EMAIL;INTERNET:rvl1@cornell.edu
+TEL;FAX:607/255-7658
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Applied & Engineering Physics DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://www.astro.cornell.edu/us-russia/
+TEL;PAGER:
+NOTE:US/RUSSIA Collaboration in Plasma Astrophysics
+TEL;WORK:607/255-6915
+END:vCard

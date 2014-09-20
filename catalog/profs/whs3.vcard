@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Wolfgang H. Sachse
+N:Sachse;Wolfgang;H.
+ADR;HOME:;;
+ADR;WORK:;;Thurston Hall; Room 325
+EMAIL;INTERNET:whs3@cornell.edu
+TEL;FAX:607/255-9179
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;EN - Mechanical & Aerospace Engr DEPT
+NICKNAME:sachse
+TITLE:Professor
+URL:http://www.ccmr.cornell.edu/~sachse
+TEL;PAGER:
+NOTE:Non-destructive Matls Testng; Ultrasonics; Meas Systems
+TEL;WORK:607/255-5065
+END:vCard

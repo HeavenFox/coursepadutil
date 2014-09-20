@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:John F. Forester
+N:Forester;John;F.
+ADR;HOME:;;
+ADR;WORK:;;Sibley Hall; Room 111
+EMAIL;INTERNET:jff1@cornell.edu
+TEL;FAX:607/255-1971
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;AAP - City & Regional Planning
+NICKNAME:John
+TITLE:Professor
+URL:http://www.people.cornell.edu/pages/jff1/    http://instruct1.cit.cornell.edu/courses/practicestories/
+TEL;PAGER:
+NOTE:oral histories of environmental mediators
+TEL;WORK:607/255-5179
+END:vCard

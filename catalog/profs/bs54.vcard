@@ -1,0 +1,18 @@
+BEGIN:vCard
+VERSION:2.1
+FN:Bart Selman
+N:Selman;Bart;
+ADR;HOME:;;
+ADR;WORK:;;Bill and Melinda Gates Hall; Room 351
+EMAIL;INTERNET:selman@cs.cornell.edu
+TEL;FAX:607/255-4428
+TEL;CELL:
+TEL;HOME:
+ORG:Cornell University;CIS - Computer Science DEPT
+NICKNAME:
+TITLE:Professor
+URL:http://www.cs.cornell.edu/selman/
+TEL;PAGER:
+NOTE:
+TEL;WORK:607/255-5643
+END:vCard
